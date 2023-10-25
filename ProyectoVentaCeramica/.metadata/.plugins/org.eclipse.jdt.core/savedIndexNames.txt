@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\AAA_Cibertec\1º CICLO\INTRODUCCIÓN A LA ALGORITMIA\PROYECTO FINAL\ProyectoVentaCeramica - BIEN FINALIZADO  Ultima actualizacion\.metadata\.plugins\org.eclipse.jdt.core
+2257518590.index
+1275962841.index
